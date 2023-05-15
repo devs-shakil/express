@@ -1,0 +1,30 @@
+{
+  "name": "express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start-dev":"nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shakilwebmaster/express.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shakilwebmaster/express/issues"
+  },
+  "homepage": "https://github.com/shakilwebmaster/express#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "helmet": "^7.0.0"
+
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
