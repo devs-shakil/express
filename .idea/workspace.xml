@@ -5,21 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c4da3ecf-2478-43e7-9de9-e789b412c6f6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/express-2/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/express-2/halmetAndOthers.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/express-2/server.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/express-3/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/express-3/product.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/express-3/router.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/express-3/server.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/express-4/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/express-4/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/express-4/data/movieDetails.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/express-4/data/movies.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/express-4/data/people.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/express-4/routes/blog.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/express-4/routes/home.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/express-4/server.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-5/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-5/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-5/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-5/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-5/src/controllers/helloContriller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-5/src/routes/api.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,11 +21,15 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/express-5/index.js" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/express-5/src/routes/api.js" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="CurrentFile" />
+    <option name="selectedTabId" value="ProjectErrors" />
   </component>
   <component name="ProjectId" id="2PjJ5L4PrGKpKs2rPiogq4Fs40s" />
   <component name="ProjectViewState">
@@ -45,12 +41,13 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Nasa iT/Desktop/express",
+    "last_opened_file_path": "C:/Users/Nasa iT/Desktop/portfolio",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "run.code.analysis.last.selected.profile": "pProject Default",
     "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2022.3.4\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external",
     "vue.rearranger.settings.migration": "true"
   }
@@ -69,7 +66,10 @@
       <option name="presentableId" value="Default" />
       <updated>1683964375997</updated>
       <workItem from="1683964377106" duration="28421000" />
-      <workItem from="1684122766874" duration="16165000" />
+      <workItem from="1684122766874" duration="17392000" />
+      <workItem from="1684208520016" duration="614000" />
+      <workItem from="1684325625693" duration="1328000" />
+      <workItem from="1684381691909" duration="18383000" />
     </task>
     <servers />
   </component>
