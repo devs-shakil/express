@@ -5,13 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c4da3ecf-2478-43e7-9de9-e789b412c6f6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/express-5/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/express-5/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/express-5/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/express-5/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/express-5/src/controllers/helloContriller.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/express-5/src/routes/api.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-5/src/controllers/login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-5/src/controllers/popular.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-5/src/data/movieDetails.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-5/src/data/movies.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-5/src/data/people.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-5/src/middleware/apikey.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-5/src/routes/login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-5/src/routes/popular.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/express-5/.env" beforeDir="false" afterPath="$PROJECT_DIR$/express-5/.env" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/express-5/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/express-5/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/express-5/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/express-5/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/express-5/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/express-5/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/express-5/src/controllers/helloContriller.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +36,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="ProjectErrors" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2PjJ5L4PrGKpKs2rPiogq4Fs40s" />
   <component name="ProjectViewState">
@@ -41,7 +48,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Nasa iT/Desktop/portfolio",
+    "last_opened_file_path": "C:/Users/Nasa iT/Desktop/mongodb_mern3",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -69,7 +76,9 @@
       <workItem from="1684122766874" duration="17392000" />
       <workItem from="1684208520016" duration="614000" />
       <workItem from="1684325625693" duration="1328000" />
-      <workItem from="1684381691909" duration="18383000" />
+      <workItem from="1684381691909" duration="18915000" />
+      <workItem from="1684506715235" duration="7207000" />
+      <workItem from="1684985791144" duration="7779000" />
     </task>
     <servers />
   </component>
